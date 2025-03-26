@@ -1,0 +1,6 @@
+In this Coding session I am going to dive deep into the python basics from this repo https://github.com/panaversity/learn-modern-ai-python/tree/main  
+
+I will cover the topics from :
+   00_python_colab
+       00 till 11
+    
