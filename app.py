@@ -12,4 +12,7 @@
 #    wrap in *--> for italic
 #    use - with space or 1. with space to form a list
 
+# my google colab notebook link
+# https://colab.research.google.com/drive/1t8_9533qtkbe9ZblTUXnI-X6QH3QaBnV?usp=sharing
+
 #Completed
