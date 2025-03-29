@@ -250,3 +250,6 @@ x = "Sally" # x is now of type str
 print(x)
 
 # Variables are case sensitive :   a and A are different
+
+ 
+#Completed
