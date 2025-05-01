@@ -16,3 +16,5 @@
 # https://colab.research.google.com/drive/1t8_9533qtkbe9ZblTUXnI-X6QH3QaBnV?usp=sharing
 
 #Completed
+
+#Quiz Practice Completed

@@ -22,3 +22,5 @@
 # Machine Code Execution
 # Finally, the system’s hardware runs the instructions, producing the desired output.
 #   .py file ===>  Tokenizer(Lexical)  ===> Parser(AST)  ===> Bytecode Compilation ===> Machine Code  ===> Final Output
+
+#Quiz Practice Completed

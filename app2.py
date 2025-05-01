@@ -47,4 +47,6 @@ print(type(z))
 
 # Practice Completed Also gave a test on W3 School
 
+#Quiz Practice Completed
+
 
